@@ -10,7 +10,7 @@
   <li>Icarus (rise then fall)</li>
   <li>Cinderella (rise then fall then rise)</li>
   <li>Oedipus (fall then rise then fall)</li>
-  <h2>Riches to Rags</h2>
  </ul>
 <p>I addionally added 'Lifelike Ambiguity', as originally mentioned by Vonnegut, and 'Miscellaneous' to consider abstract films with nonlinear narratives and documentaries where this also may apply. I'll be comparing the Top 250 movies as published by Sight & Sound magazine (British Film Institute), IMDB Top 250 User Rated movies, and the top movies by box office gross.</p> 
+
 
