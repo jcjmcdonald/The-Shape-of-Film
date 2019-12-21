@@ -11,8 +11,7 @@
   <li>Cinderella (rise then fall then rise)</li>
   <li>Oedipus (fall then rise then fall)</li>
   <h2>Riches to Rags</h2>
-<img src="https://images.app.goo.gl/5iE7XbH5WdMjo5if8" alt="Trulli" width="500" height="333">
+![Man In Hole](/images/man_in_hole.png)
  </ul>
 <p>I addionally added 'Lifelike Ambiguity', as originally mentioned by Vonnegut, and 'Miscellaneous' to consider abstract films with nonlinear narratives and documentaries where this also may apply. I'll be comparing the Top 250 movies as published by Sight & Sound magazine (British Film Institute), IMDB Top 250 User Rated movies, and the top movies by box office gross.</p> 
 
-[![Vonnegut on Shapes](https://img.youtube.com/vi/https://youtu.be/oP3c1h8v2ZQ/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/oP3c1h8v2ZQ)
