@@ -15,5 +15,4 @@
 
 <p>The questions I am asking are, what shapes are critically appraised, how do the shapes perform financially, and which shapes are most highly rated by the general public?</p>
 
-![Vonnegut](https://raw.https://github.com/jcjmcdonald/The-Shape-of-Film/blob/master/Vonnegut2.jpg)
 
