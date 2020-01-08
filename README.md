@@ -13,6 +13,6 @@
  </ul>
 <p>I addionally added 'Lifelike Ambiguity', as originally mentioned by Vonnegut, and 'Miscellaneous' to consider abstract films with nonlinear narratives and documentaries where this also may apply. I'll be comparing the Top 250 movies as published by Sight & Sound magazine (British Film Institute), IMDB Top 250 User Rated movies, and the top movies by box office gross.</p> 
 
-<p>The questions I am asking are, what shapes are critically appraised, how do the shapes perform financially, and which shapes are most highly rated by the general public?"</p>
+<p>The questions I am asking are, what shapes are critically appraised, how do the shapes perform financially, and which shapes are most highly rated by the general public?</p>
 
 
